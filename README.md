@@ -1,3 +1,4 @@
+
 # Online Retail Analytics SQL Capstone
 
 ## Overview
@@ -141,5 +142,5 @@ This notebook answers the following analytical questions:
 ---
 
 ## Author
-
 Aryaa Patil
+
